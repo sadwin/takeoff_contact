@@ -18,3 +18,8 @@ From root directory (in separate console):
 npm i
 npm run dev
 ```
+Initial credentials:
+```json
+login: kokapocket
+password: 12345
+```
