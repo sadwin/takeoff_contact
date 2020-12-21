@@ -12,7 +12,7 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 
-From root directory:
+From root directory (in separate console):
 
 ```json
 npm i
